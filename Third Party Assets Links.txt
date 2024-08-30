@@ -1,0 +1,9 @@
+2d Casual UI: https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080
+Super Caramel : https://www.dafont.com/super-caramel.font
+House 2: https://sketchfab.com/3d-models/low-poly-house-796232a307d24b6881f4f42476058701
+494128__wlabarron__hotel-room-door-unlocking: https://freesound.org/people/wlabarron/sounds/494128/
+karsiori Key Pack : https://assetstore.unity.com/packages/2d/pixel-art-key-pack-animated-271986
+488963__dominictreis__sad-or-scary-scene-change-music: https://freesound.org/people/dominictreis/sounds/488963/
+
+The key sprite animation was changed from using a sprite renderer to an Image component for the UI
+All other assets are used unchanged
